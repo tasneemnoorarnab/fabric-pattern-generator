@@ -18,7 +18,7 @@ This project uses Python and the Pillow library to generate automated fabric pat
     python -m venv venv
     source venv/bin/activate  
 # For Windows
-    ```use venv\Scripts\activate
+    ```venv\Scripts\activate
     ```
 
 3. Install dependencies:
